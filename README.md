@@ -24,7 +24,7 @@
 <a href="https://www.facebook.com/devnazmul/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.facebook.com/devnazmul/">
+<a href="https://twitter.com/pronazmul">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:developernazmul@gmail.com">
