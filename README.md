@@ -1,7 +1,10 @@
+#### Hi there 👋
+## I'm Nazmul Huda,
+from Mymensingh, Dhaka, Banngladesh<br><hr>
 <p>Hi, my name is MD. Nazmul Huda and I am a Full Stack Developer from Bangladesh.</p>
 <p>I have a great thirst for learning and believe in continuous improvement. I speak fluently in PHP and JavaScript.</p>
 
-## My Tech Stack
+## Where I am Skilled In
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)
 ![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node.js)
