@@ -15,7 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=flat-square&logo=css3)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=%232c3e50&color=%232c3e50)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%232c3e50?style=flat-square&logo=MongoDB&logoColor=ffffff&labelColor=%232c3e50&color=%232c3e50)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%232c3e50?style=flat-square&logo=MongoDB&logoColor=232c3e50&labelColor=%232c3e50&color=%232c3e50)
 
 
 
