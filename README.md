@@ -8,6 +8,7 @@
 ![Express](https://img.shields.io/badge/-Express-%232c3e50?style=flat-square&logo=express.js)
 
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
+![Es6](https://img.shields.io/badge/-Es6-%232c3e50?style=flat-square&logo=Es6)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat-square&logo=jQuery)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript&logoColor=e1cc1b&labelColor=%232c3e50&color=%232c3e50)
 
