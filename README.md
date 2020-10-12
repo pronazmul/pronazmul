@@ -5,6 +5,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)
 ![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-%232c3e50?style=flat-square&logo=express.js)
 
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat-square&logo=jQuery)
