@@ -7,7 +7,7 @@
 ## Where I am Skilled In
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)
-![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node.js)
+![Node](https://img.shields.io/badge/-NodeJS-%232c3e50?style=flat-square&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-%232c3e50?style=flat-square&logo=ExpressJS&logoColor=232c3e50&labelColor=%232c3e50&color=%232c3e50)
 
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
