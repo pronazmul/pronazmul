@@ -1,9 +1,5 @@
-<!-- <p align="center"> -->
-<!--     <a href="https://arifszn.github.io" target="_blank"><img src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/preview.gif" alt="Ariful Alam" title="Ariful Alam"></a> -->
-</p>
-
 <p>Hi, my name is MD. Nazmul Huda and I am a Full Stack Developer from Bangladesh.</p>
-<p>. I have a great thirst for learning and believe in continuous improvement. I speak fluently in PHP and JavaScript.</p>
+<p>I have a great thirst for learning and believe in continuous improvement. I speak fluently in PHP and JavaScript.</p>
 
 ## My Tech Stack
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
