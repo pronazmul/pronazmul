@@ -1,6 +1,6 @@
 #### Hi there 👋
 ## I'm Nazmul Huda,
-#Full Stack Web Application Developer
+## Full Stack Web Application Developer
 from Mymensingh, Dhaka, Banngladesh<hr>
 <p>I have a great thirst for learning and believe in continuous improvement. I speak fluently in PHP and JavaScript.</p>
 
