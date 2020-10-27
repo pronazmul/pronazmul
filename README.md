@@ -1,8 +1,12 @@
 #### Hi there 😎
 # I'm Nazmul Huda  
 # Full Stack Web Application Developer
-<p>From Mymensingh, Dhaka, Banngladesh</p> 
-<p>I have a great thirst for learning and believe in continuous improvement. I speak fluently in PHP and JavaScript.</p>
+<p>I love new challenges and working with new
+technologies. I believe in clean code. I
+am comfortable working in a team. I
+can create SPA (Single Page
+Application) and any complex
+application rapidly.</p>
 
 ## Technologies i am skilled in 🥰
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
