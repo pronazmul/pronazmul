@@ -43,8 +43,6 @@ application rapidly.</p>
 <a href="https://www.pinterest.com/pronazmul/" target="_blank"> 
   <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" /> 
 </a> 
-<br>
-### View My CV 
 <a target="_blank" href="https://drive.google.com/file/d/1cHgqcvOCYR5DDOSytNaDoZAk8vJDfa4c/view?fbclid=IwAR1VP3_FmTcZ4JC5AhJz_t4HUosDORixdhVd-5zAEqcFm1EEkyxv0BoG6tM" >
   <img align="left" alt="LinkedIn" width="30px" src="https://i.ibb.co/CPhgXkr/523-5230227-resume-png-transparent-images-resume-cv-logo-png.png" />
 </a>
