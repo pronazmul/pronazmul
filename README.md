@@ -12,7 +12,7 @@ application rapidly.</p>
 
 <h2>Technologies i am skilled in 🥰</h2>
 >Backend
-![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
+![Laravel](https://i.ibb.co/JtXB2X7/laravel.png)
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)
 ![Node](https://img.shields.io/badge/-NodeJS-%232c3e50?style=flat-square&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-%232c3e50?style=flat-square&logo=express.js&logoColor=232c3e50&labelColor=%232c3e50&color=%232c3e50)
