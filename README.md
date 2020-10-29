@@ -22,22 +22,22 @@ application rapidly.</p>
 
 
 <p align="left">
-<img alt="MySQL" height="26px" src="https://i.ibb.co/jkXdggM/mysql.png"/>
-<img alt="MongoDB" height="26px" src="https://i.ibb.co/WWPpgk6/mong.png"/>
+<img alt="MySQL" height="30px" src="https://i.ibb.co/jkXdggM/mysql.png"/>
+<img alt="MongoDB" height="30px" src="https://i.ibb.co/WWPpgk6/mong.png"/>
 </p>
 
 <p align="left">
-<img alt="JavaScript" height="26px" src="https://i.ibb.co/61g7YkM/js.png"/>
-<img alt="Es6" height="26px" src="https://i.ibb.co/PmwdCjD/es6.png"/>
-<img alt="ReactJS" height="26px" src="https://i.ibb.co/YZ1dm4M/react.png"/>
-<img alt="Jquery" height="26px" src="https://i.ibb.co/kB27Pjc/jquery.png"/>
+<img alt="JavaScript" height="30px" src="https://i.ibb.co/61g7YkM/js.png"/>
+<img alt="Es6" height="30px" src="https://i.ibb.co/PmwdCjD/es6.png"/>
+<img alt="ReactJS" height="30px" src="https://i.ibb.co/YZ1dm4M/react.png"/>
+<img alt="Jquery" height="30px" src="https://i.ibb.co/kB27Pjc/jquery.png"/>
 </p>
 
 <p align="left">
-<img alt="Html" height="26px" src="https://i.ibb.co/zmxY6GR/html.png"/>
-<img alt="CSS" height="26px" src="https://i.ibb.co/Z6bqpxT/css.jpg"/>
-<img alt="Bootstrap" height="26px" src="https://i.ibb.co/J7dzLDp/bootstrap.jpg"/>
-<img alt="Bootstrap" height="26px" src="https://i.ibb.co/hf2nSC6/meterial.png"/>
+<img alt="Html" height="30px" src="https://i.ibb.co/zmxY6GR/html.png"/>
+<img alt="CSS" height="30px" src="https://i.ibb.co/Z6bqpxT/css.jpg"/>
+<img alt="Bootstrap" height="30px" src="https://i.ibb.co/J7dzLDp/bootstrap.jpg"/>
+<img alt="Bootstrap" height="30px" src="https://i.ibb.co/hf2nSC6/meterial.png"/>
 </p>
 </br></br></br>
 <img align="center" width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true"/>
