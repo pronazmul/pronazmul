@@ -12,11 +12,11 @@ application rapidly.</p>
 
 <h2>Technologies i am skilled in 🥰</h2>
 <p float="left">
-<img align="left" alt="Laravel" height="26px" src="https://i.ibb.co/JtXB2X7/laravel.png"/>
-<img align="left" alt="Php" height="26px" src="https://i.ibb.co/BNwjGbf/php.png"/>
-<img align="left" alt="Node" height="26px" src="https://i.ibb.co/bPdxrfX/node.png"/>
-<img align="left" alt="ExpressJS" height="26px" src="https://i.ibb.co/1fhtLx6/express.png"/>
-<img align="left" alt="Axios" height="26px" src="https://i.ibb.co/94V5h9t/axios.png"/>
+<img class="mb4" align="left" alt="Laravel" height="26px" src="https://i.ibb.co/JtXB2X7/laravel.png"/>
+<img class="mb4" align="left" alt="Php" height="26px" src="https://i.ibb.co/BNwjGbf/php.png"/>
+<img class="mb4" align="left" alt="Node" height="26px" src="https://i.ibb.co/bPdxrfX/node.png"/>
+<img class="mb4" align="left" alt="ExpressJS" height="26px" src="https://i.ibb.co/1fhtLx6/express.png"/>
+<img class="mb4" align="left" alt="Axios" height="26px" src="https://i.ibb.co/94V5h9t/axios.png"/>
 </p>
 
 <p float="left">
