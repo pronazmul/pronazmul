@@ -22,7 +22,7 @@ application rapidly.</p>
 
 
 <p align="left">
-<img alt="MySQL" height="30px" src="https://i.ibb.co/jkXdggM/mysql.png"/>
+<img alt="MySQL" height="35px" src="https://i.ibb.co/jkXdggM/mysql.png"/>
 <img alt="MongoDB" height="30px" src="https://i.ibb.co/WWPpgk6/mong.png"/>
 </p>
 
