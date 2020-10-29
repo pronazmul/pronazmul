@@ -25,7 +25,7 @@ application rapidly.</p>
 <img align="left" alt="Html" height="26px" src="https://i.ibb.co/zmxY6GR/html.png"/>
 <img align="left" alt="CSS" height="26px" src="https://i.ibb.co/Z6bqpxT/css.jpg"/>
 <img align="left" alt="Bootstrap" height="26px" src="https://i.ibb.co/J7dzLDp/bootstrap.jpg"/>
-
+</br></br></br>
 <img align="center" width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&layout=compact)](https://github.com/pronazmul)
