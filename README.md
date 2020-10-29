@@ -3,7 +3,7 @@
  <p align="center">Full Stack Web Application Developer!</p>
 </p>
 
-><p>I love new challenges and working with new
+<p>I love new challenges and working with new
 technologies. I believe in clean code. I
 am comfortable working in a team. I
 can create SPA (Single Page
@@ -11,23 +11,23 @@ Application) and any complex
 application rapidly.</p>
 
 # Technologies i am skilled in 🥰
->>Backend
+>Backend
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)
 ![Node](https://img.shields.io/badge/-NodeJS-%232c3e50?style=flat-square&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-%232c3e50?style=flat-square&logo=express.js&logoColor=232c3e50&labelColor=%232c3e50&color=%232c3e50)
 
->>Database
+>Database
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=%232c3e50&color=%232c3e50)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%232c3e50?style=flat-square&logo=MongoDB&logoColor=232c3e50&labelColor=%232c3e50&color=%232c3e50)
 
->>JavaScript
+>JavaScript
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
 ![ECMAScript](https://img.shields.io/badge/-ES6-%232c3e50?style=flat-square&logo=ECMAScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript&logoColor=e1cc1b&labelColor=%232c3e50&color=%232c3e50)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat-square&logo=jQuery)
 
->>User-Interface
+>User-Interface
 ![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=flat-square&logo=Bootstrap)
