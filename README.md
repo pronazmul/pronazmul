@@ -12,8 +12,14 @@ application rapidly.</p>
 
 <h2>Technologies i am skilled in 🥰</h2>
 >Backend
-<img align="left" alt="Laravel" height="40px" src="https://i.ibb.co/JtXB2X7/laravel.png"/>
+<img align="left" alt="Laravel" height="26px" src="https://i.ibb.co/JtXB2X7/laravel.png"/>
+<img align="left" alt="Php" height="26px" src="https://i.ibb.co/BNwjGbf/php.png"/>
+<img align="left" alt="Node" height="26px" src="https://i.ibb.co/jvfkVdp/nodejs.pnghttps://i.ibb.co/bPdxrfX/node.png"/>
+<img align="left" alt="ExpressJS" height="26px" src="https://i.ibb.co/1fhtLx6/express.png"/>
+<img align="left" alt="Axios" height="26px" src="https://i.ibb.co/94V5h9t/axios.png"/>
 
+https://i.ibb.co/BNwjGbf/php.png
+https://i.ibb.co/jvfkVdp/nodejs.pnghttps://i.ibb.co/bPdxrfX/node.png
 
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)
 ![Node](https://img.shields.io/badge/-NodeJS-%232c3e50?style=flat-square&logo=node.js)
