@@ -12,7 +12,7 @@ application rapidly.</p>
 
 <h2>Technologies i am skilled in 🥰</h2>
 >Backend
-[<img align="left" alt="Laravel" height="40px" src="https://i.ibb.co/JtXB2X7/laravel.png"/>]
+<img align="left" alt="Laravel" height="40px" src="https://i.ibb.co/JtXB2X7/laravel.png"/>
 
 
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)
