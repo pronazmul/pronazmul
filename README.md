@@ -34,7 +34,7 @@ application rapidly.</p>
 
 
 <br/>
-<img width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true&hide_rank"/>
+<img width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true&hide=hide_rank"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&layout=compact)](https://github.com/pronazmul)
 
