@@ -12,28 +12,33 @@ application rapidly.</p>
 
 <h2>Technologies i am skilled in 🥰</h2>
 
+<p align="left">
 <img alt="Laravel" height="26px" src="https://i.ibb.co/JtXB2X7/laravel.png"/>
 <img alt="Php" height="26px" src="https://i.ibb.co/BNwjGbf/php.png"/>
 <img alt="Node" height="26px" src="https://i.ibb.co/bPdxrfX/node.png"/>
 <img alt="ExpressJS" height="26px" src="https://i.ibb.co/1fhtLx6/express.png"/>
 <img alt="Axios" height="26px" src="https://i.ibb.co/94V5h9t/axios.png"/>
-<br>
+</p>
 
 
+<p align="left">
 <img alt="MySQL" height="26px" src="https://i.ibb.co/jkXdggM/mysql.png"/>
 <img alt="MongoDB" height="26px" src="https://i.ibb.co/WWPpgk6/mong.png"/>
-<br>
+</p>
+
+<p align="left">
 <img alt="JavaScript" height="26px" src="https://i.ibb.co/61g7YkM/js.png"/>
 <img alt="Es6" height="26px" src="https://i.ibb.co/PmwdCjD/es6.png"/>
 <img alt="ReactJS" height="26px" src="https://i.ibb.co/YZ1dm4M/react.png"/>
 <img alt="Jquery" height="26px" src="https://i.ibb.co/kB27Pjc/jquery.png"/>
-<br>
+</p>
 
+<p align="left">
 <img alt="Html" height="26px" src="https://i.ibb.co/zmxY6GR/html.png"/>
 <img alt="CSS" height="26px" src="https://i.ibb.co/Z6bqpxT/css.jpg"/>
 <img alt="Bootstrap" height="26px" src="https://i.ibb.co/J7dzLDp/bootstrap.jpg"/>
 <img alt="Bootstrap" height="26px" src="https://i.ibb.co/hf2nSC6/meterial.png"/>
- 
+</p>
 </br></br></br>
 <img align="center" width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true"/>
 
