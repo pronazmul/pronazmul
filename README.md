@@ -1,6 +1,8 @@
-#### Hi there 😎
-# I'm Nazmul Huda  
-# Full Stack Web Application Developer
+<p align="center">
+ <h2 align="center">Nazmul Huda</h2>
+ <p align="center">Full Stack Web Application Developer!</p>
+</p>
+
 <p>I love new challenges and working with new
 technologies. I believe in clean code. I
 am comfortable working in a team. I
