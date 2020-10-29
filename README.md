@@ -1,6 +1,6 @@
 <p align="center">
  <h2 align="center">Nazmul Huda</h2>
- <p align="center">Full Stack Web Application Developer!</p>
+ <h1 align="center">Full Stack Web Application Developer!</h1>
 </p>
 
 <p>I love new challenges and working with new
@@ -39,8 +39,6 @@ application rapidly.</p>
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&layout=compact)](https://github.com/pronazmul)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true&theme=radical)](https://github.com/pronazmul)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pronazmul&repo=github-readme-stats)](https://github.com/pronazmul)
 
 *Reach Me *
 <a href="https://www.linkedin.com/in/pronazmul/" target="_blank">
