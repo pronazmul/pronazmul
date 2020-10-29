@@ -1,5 +1,5 @@
 <p align="center">
- <h2 align="center">Nazmul Huda</h2>
+ <h1 align="center">Nazmul Huda</h1>
  <h1 align="center">Full Stack Web Application Developer!</h1>
 </p>
 
@@ -10,7 +10,7 @@ can create SPA (Single Page
 Application) and any complex
 application rapidly.</p>
 
-*Technologies i am skilled in 🥰*
+<h2>Technologies i am skilled in 🥰</h2>
 >Backend
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)
@@ -40,7 +40,7 @@ application rapidly.</p>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true&theme=radical)](https://github.com/pronazmul)
 
-*Reach Me *
+<h2>Reach Me 🌍</h2>
 <a href="https://www.linkedin.com/in/pronazmul/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
