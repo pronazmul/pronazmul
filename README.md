@@ -18,15 +18,16 @@ application rapidly.</p>
 <img align="left" alt="ExpressJS" height="26px" src="https://i.ibb.co/1fhtLx6/express.png"/>
 <img align="left" alt="Axios" height="26px" src="https://i.ibb.co/94V5h9t/axios.png"/>
 
->Database
-![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=%232c3e50&color=%232c3e50)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%232c3e50?style=flat-square&logo=MongoDB&logoColor=232c3e50&labelColor=%232c3e50&color=%232c3e50)
 
->JavaScript
-![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
-![ECMAScript](https://img.shields.io/badge/-ES6-%232c3e50?style=flat-square&logo=ECMAScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript&logoColor=e1cc1b&labelColor=%232c3e50&color=%232c3e50)
-![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat-square&logo=jQuery)
+<img align="left" alt="MySQL" height="26px" src="https://i.ibb.co/jkXdggM/mysql.png"/>
+<img align="left" alt="MongoDB" height="26px" src="https://i.ibb.co/WWPpgk6/mong.png"/>
+
+<img align="left" alt="JavaScript" height="26px" src="https://i.ibb.co/61g7YkM/js.png"/>
+<img align="left" alt="Es6" height="26px" src="https://i.ibb.co/PmwdCjD/es6.png"/>
+<img align="left" alt="ReactJS" height="26px" src="
+https://i.ibb.co/YZ1dm4M/react.png"/>
+<img align="left" alt="Jquery" height="26px" src="https://i.ibb.co/kB27Pjc/jquery.png"/>
+)
 
 >User-Interface
 ![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=flat-square&logo=html5)
