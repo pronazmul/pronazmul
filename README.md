@@ -11,7 +11,6 @@ Application) and any complex
 application rapidly.</p>
 
 <h2>Technologies i am skilled in 🥰</h2>
->Server
 <img align="left" alt="Laravel" height="26px" src="https://i.ibb.co/JtXB2X7/laravel.png"/>
 <img align="left" alt="Php" height="26px" src="https://i.ibb.co/BNwjGbf/php.png"/>
 <img align="left" alt="Node" height="26px" src="https://i.ibb.co/bPdxrfX/node.png"/>
