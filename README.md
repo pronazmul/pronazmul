@@ -35,7 +35,7 @@ application rapidly.</p>
 
 <p align="left">
 <img alt="Html" height="30px" src="https://i.ibb.co/zmxY6GR/html.png"/>
-<img alt="CSS" height="30px" src="https://i.ibb.co/Z6bqpxT/css.jpg"/> 
+<img alt="CSS" height="30px" src="https://i.ibb.co/Z6bqpxT/css.jpg"/>  
 <img alt="Bootstrap" height="30px" src="https://i.ibb.co/J7dzLDp/bootstrap.jpg"/>
 <img alt="Bootstrap" height="30px" src="https://i.ibb.co/hf2nSC6/meterial.png"/>
 </p>
