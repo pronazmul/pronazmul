@@ -38,7 +38,7 @@ application rapidly.</p>
 <img alt="CSS" height="30px" src="https://i.ibb.co/Z6bqpxT/css.jpg"/>  
 <img alt="Bootstrap" height="30px" src="https://i.ibb.co/J7dzLDp/bootstrap.jpg"/>
 <img alt="Bootstrap" height="30px" src="https://i.ibb.co/hf2nSC6/meterial.png"/> 
-</p> 
+</p>  
 </br></br></br>  
 <img align="center" width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true"/>
 
