@@ -32,7 +32,7 @@ application rapidly.</p>
 <img alt="ReactJS" height="30px" src="https://i.ibb.co/YZ1dm4M/react.png"/>
 <img alt="Jquery" height="30px" src="https://i.ibb.co/kB27Pjc/jquery.png"/>
 </p>
-
+ 
 <p align="left">
 <img alt="Html" height="30px" src="https://i.ibb.co/zmxY6GR/html.png"/>
 <img alt="CSS" height="30px" src="https://i.ibb.co/Z6bqpxT/css.jpg"/>  
