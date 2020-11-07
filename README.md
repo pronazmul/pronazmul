@@ -14,7 +14,7 @@ application rapidly.</p>
 
 <p align="left">
 <img alt="Laravel" height="30px" src="https://i.ibb.co/JtXB2X7/laravel.png"/>
-<img alt="Php" height="30px" src="https://i.ibb.co/BNwjGbf/php.png"/>
+<img alt="Php" height="30px" src="https://io.ibb.co/BNwjGbf/php.png"/>
 <img alt="Node" height="35px" src="https://i.ibb.co/bPdxrfX/node.png"/>
 <img alt="ExpressJS" height="35px" src="https://i.ibb.co/1fhtLx6/express.png"/>
 <img alt="Axios" height="30px" src="https://i.ibb.co/94V5h9t/axios.png"/>
@@ -38,7 +38,7 @@ application rapidly.</p>
 <img alt="CSS" height="30px" src="https://i.ibb.co/Z6bqpxT/css.jpg"/>  
 <img alt="Bootstrap" height="30px" src="https://i.ibb.co/J7dzLDp/bootstrap.jpg"/>
 <img alt="Bootstrap" height="30px" src="https://i.ibb.co/hf2nSC6/meterial.png"/> 
-</p>   
+</p>  
 </br></br></br>  
 <img align="center" width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true"/>
 
@@ -62,5 +62,5 @@ application rapidly.</p>
 </a> 
 <a target="_blank" href="https://drive.google.com/file/d/194DhKG1A7mft6CON3eFJdtxsj098HQ2r/view" >
   <img align="left" alt="LinkedIn" width="30px" src="https://i.ibb.co/CPhgXkr/523-5230227-resume-png-transparent-images-resume-cv-logo-png.png" />
-</a> 
- 
+</a>
+
