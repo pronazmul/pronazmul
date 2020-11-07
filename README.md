@@ -63,4 +63,4 @@ application rapidly.</p>
 <a target="_blank" href="https://drive.google.com/file/d/194DhKG1A7mft6CON3eFJdtxsj098HQ2r/view" >
   <img align="left" alt="LinkedIn" width="30px" src="https://i.ibb.co/CPhgXkr/523-5230227-resume-png-transparent-images-resume-cv-logo-png.png" />
 </a>
-
+ 
