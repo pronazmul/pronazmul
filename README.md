@@ -12,19 +12,12 @@ application rapidly.</p>
 
 <h2>Technologies i am skilled in 🥰</h2>
 
-<p align="center">
 <img src="https://i.ibb.co/3zrDBmj/New-Project.png" width="500">
-</p>
 
-<p align="center">
-<img align="center" width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true&theme=radical"/>
-</p>
+<img width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true&theme=radical"/>
 
-<p align="center">
- 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&card_width=550&theme=radical)](https://github.com/pronazmul)
 
-</p>
 
 <h2>Reach Me 🌍</h2>
 <a href="https://www.linkedin.com/in/pronazmul/" target="_blank">
