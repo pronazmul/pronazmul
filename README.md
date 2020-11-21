@@ -15,19 +15,6 @@ application rapidly.</p>
 <p align="center">
 <img src="https://i.ibb.co/3zrDBmj/New-Project.png" width="500">
 </p>
-
-
-<p align="left">
-<img alt="MySQL" height="35px" src="https://i.ibb.co/jkXdggM/mysql.png"/>
-<img alt="MongoDB" height="30px" src="https://i.ibb.co/WWPpgk6/mong.png"/>
-</p>
-
-<p align="left">
-<img alt="JavaScript" height="30px" src="https://i.ibb.co/61g7YkM/js.png"/>
-<img alt="Es6" height="30px" src="https://i.ibb.co/PmwdCjD/es6.png"/>
-<img alt="ReactJS" height="30px" src="https://i.ibb.co/YZ1dm4M/react.png"/>
-<img alt="Jquery" height="30px" src="https://i.ibb.co/kB27Pjc/jquery.png"/>
-</p>
  
 <p align="left">
 <img alt="Html" height="30px" src="https://i.ibb.co/zmxY6GR/html.png"/>
@@ -36,8 +23,9 @@ application rapidly.</p>
 <img alt="Bootstrap" height="30px" src="https://i.ibb.co/hf2nSC6/meterial.png"/> 
 </p>  
 </br></br></br>  
+<p align="center">
 <img align="center" width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true&theme=radical"/>
-
+</p>
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&card_width=550&theme=radical)](https://github.com/pronazmul)
 
 <h2>Reach Me 🌍</h2>
