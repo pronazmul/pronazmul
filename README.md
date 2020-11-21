@@ -40,9 +40,9 @@ application rapidly.</p>
 <img alt="Bootstrap" height="30px" src="https://i.ibb.co/hf2nSC6/meterial.png"/> 
 </p>  
 </br></br></br>  
-<img align="center" width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true"/>
+<img align="center" width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true&bg_color=gradient"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&card_width=550)](https://github.com/pronazmul)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&card_width=550&bg_color=gradient)](https://github.com/pronazmul)
 
 <h2>Reach Me 🌍</h2>
 <a href="https://www.linkedin.com/in/pronazmul/" target="_blank">
