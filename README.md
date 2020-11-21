@@ -12,12 +12,8 @@ application rapidly.</p>
 
 <h2>Technologies i am skilled in 🥰</h2>
 
-<p align="left">
-<img alt="Laravel" height="30px" src="https://i.ibb.co/JtXB2X7/laravel.png"/>
-<img alt="Php" height="30px" src="https://i.ibb.co/BNwjGbf/php.png"/>
-<img alt="Node" height="35px" src="https://i.ibb.co/bPdxrfX/node.png"/>
-<img alt="ExpressJS" height="35px" src="https://i.ibb.co/1fhtLx6/express.png"/>
-<img alt="Axios" height="30px" src="https://i.ibb.co/94V5h9t/axios.png"/>
+<p align="center">
+<img src="https://i.ibb.co/3zrDBmj/New-Project.png" width="500">
 </p>
 
 
