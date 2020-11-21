@@ -12,7 +12,7 @@ application rapidly.</p>
 
 <h2>Technologies i am skilled in 🥰</h2>
 
-<img src="https://i.ibb.co/3zrDBmj/New-Project.png" width="550">
+<a href="http://pronazmul.com"><img src="https://i.ibb.co/3zrDBmj/New-Project.png" width="550"></a>
 
 <img width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true&theme=radical"/>
 
