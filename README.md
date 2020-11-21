@@ -21,7 +21,9 @@ application rapidly.</p>
 </p>
 
 <p align="center">
+ 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&card_width=550&theme=radical)](https://github.com/pronazmul)
+
 </p>
 
 <h2>Reach Me 🌍</h2>
