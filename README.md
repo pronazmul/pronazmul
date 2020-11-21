@@ -15,18 +15,14 @@ application rapidly.</p>
 <p align="center">
 <img src="https://i.ibb.co/3zrDBmj/New-Project.png" width="500">
 </p>
- 
-<p align="left">
-<img alt="Html" height="30px" src="https://i.ibb.co/zmxY6GR/html.png"/>
-<img alt="CSS" height="30px" src="https://i.ibb.co/Z6bqpxT/css.jpg"/>  
-<img alt="Bootstrap" height="30px" src="https://i.ibb.co/J7dzLDp/bootstrap.jpg"/>
-<img alt="Bootstrap" height="30px" src="https://i.ibb.co/hf2nSC6/meterial.png"/> 
-</p>  
-</br></br></br>  
+
 <p align="center">
 <img align="center" width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true&theme=radical"/>
 </p>
+
+<p align="center">
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&card_width=550&theme=radical)](https://github.com/pronazmul)
+</p>
 
 <h2>Reach Me 🌍</h2>
 <a href="https://www.linkedin.com/in/pronazmul/" target="_blank">
