@@ -42,7 +42,7 @@ application rapidly.</p>
 </br></br></br>  
 <img align="center" width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul)](https://github.com/pronazmul)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&layout=default)](https://github.com/pronazmul)
 
 <h2>Reach Me 🌍</h2>
 <a href="https://www.linkedin.com/in/pronazmul/" target="_blank">
