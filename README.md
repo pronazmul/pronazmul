@@ -1,5 +1,4 @@
 <p align="center"> 
- <h1 align="center">Nazmul Huda</h1>
  <h1 align="center">Full Stack Web Application Developer!</h1>
 </p>
 
