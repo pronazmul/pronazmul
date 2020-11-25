@@ -8,7 +8,7 @@ am comfortable working in a team. I
 can create SPA (Single Page
 Application) and any complex
 application rapidly.</p> 
-
+ 
 <h2>Technologies i am skilled in 🥰</h2>
 
 <a href="http://pronazmul.com" target="_blank"><img src="https://i.ibb.co/3zrDBmj/New-Project.png" width="550"></a>
