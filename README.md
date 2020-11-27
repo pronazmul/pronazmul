@@ -6,7 +6,7 @@
 technologies. I believe in clean code. I
 am comfortable working in a team. I
 can create SPA (Single Page
-Application) and any complex
+Application) and any complex 
 application rapidly.</p> 
  
 <h2>Technologies i am skilled in 🥰</h2>
