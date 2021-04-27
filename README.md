@@ -37,14 +37,3 @@ application rapidly.</p>
 <a target="_blank" href="https://drive.google.com/file/d/194DhKG1A7mft6CON3eFJdtxsj098HQ2r/view" >
   <img align="left" alt="LinkedIn" width="30px" src="https://i.ibb.co/CPhgXkr/523-5230227-resume-png-transparent-images-resume-cv-logo-png.png" />
 </a>
-
-
-[![Facebook Page][facebook-shield]][https://www.facebook.com/devnazmul]
-
-[![Instagram][instagram-shield]][https://www.instagram.com/programmer_nazmul/]
-
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/pronazmul/]
-
-[![Pinterest][pinterest-shield]][https://www.pinterest.com/pronazmul]
-
-[![Twitter][twitter-shield]][https://twitter.com/pronazmul]
