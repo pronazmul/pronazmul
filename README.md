@@ -4,7 +4,7 @@
   
 <p>I love new challenges and working with new  
 technologies. I believe in clean code. I
-am comfortable working in a team. I 
+am comfortable working in a team. I
 can create SPA (Single Page
 Application) and any complex
 application rapidly.</p> 
