@@ -1,6 +1,6 @@
 <p align="center"> 
  <h1 align="center">Full Stack Web Application Developer!</h1> 
-</p> 
+</p>
   
 <p>I love new challenges and working with new  
 technologies. I believe in clean code. I
