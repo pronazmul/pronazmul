@@ -1,6 +1,6 @@
 <p align="center"> 
  <h1 align="center">Full Stack Web Application Developer!</h1>  
-</p>
+</p> 
   
 <p>I love new challenges and working with new
 technologies. I believe in clean code. I
@@ -17,7 +17,7 @@ application rapidly.</p>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&card_width=550&theme=radical)](https://github.com/pronazmul)
 
-<h2>Reach Me 🌍</h2>
+<h2>Reach Me 🌍</h2> 
 <a href="https://www.linkedin.com/in/pronazmul/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
