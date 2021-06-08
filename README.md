@@ -9,11 +9,17 @@ can create SPA (Single Page
 Application) and any complex 
 application rapidly.</p> 
  
-<h2>Technologies i am skilled in 🥰</h2>
+<h2>Technical Skills 🥰</h2>
 
-<a href="http://pronazmul.com" target="_blank"><img src="https://i.ibb.co/3zrDBmj/New-Project.png" width="550"></a>
-
-<img width="550px" alt="Programmer Nazmul GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true&theme=radical"/>
+```sh
+            {
+              programmingLanguages: ['JavaScript', 'PHP'],
+              libraries: ['React', 'MaterialUI', 'jQuery', 'Bootstrap'],
+              frameworks: ['ExpressJs', 'Laravel'],
+              databases: ['MongoDB', 'MySQL'],
+              devtools: ['Git', 'GitHub', 'Firebase', 'Heroku']
+            }
+```
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&card_width=550&theme=radical)](https://github.com/pronazmul)
 
