@@ -21,9 +21,9 @@ application rapidly.</p>
             }
 ```
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=pronazmul&card_width=550&theme=radical)](https://github.com/pronazmul)
+[Portfolio Website 😎](http://pronazmul.com/#home)
 
-<h2>Reach Me 🌍</h2> 
+<h2>Social Networks 🌍</h2> 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Facebook][facebook-shield]][facebook-url]
