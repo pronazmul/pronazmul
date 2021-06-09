@@ -12,13 +12,13 @@ application rapidly.</p>
 <h2>Technical Skills 🥰</h2>
 
 ```sh
-            {
-              programmingLanguages: ['JavaScript', 'PHP'],
-              libraries: ['React', 'MaterialUI', 'jQuery', 'Bootstrap'],
-              frameworks: ['ExpressJs', 'Laravel'],
-              databases: ['MongoDB', 'MySQL'],
-              devtools: ['Git', 'GitHub', 'Firebase', 'Heroku']
-            }
+    {
+       programmingLanguages: ['JavaScript', 'PHP'],
+       libraries: ['React', 'MaterialUI', 'jQuery', 'Bootstrap'],
+       frameworks: ['ExpressJs', 'Laravel'],
+       databases: ['MongoDB', 'MySQL'],
+       devtools: ['Git', 'GitHub', 'Firebase', 'Heroku']
+     }
 ```
 
 [Portfolio Website 😎](http://pronazmul.com/#home)
