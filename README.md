@@ -1,13 +1,8 @@
 <p align="center"> 
- <h1 align="center">Full Stack Web Application Developer!</h1> 
+ <h1 align="center">Junior Web Application Developer!</h1> 
 </p> 
   
-<p>I love new challenges and working with new
-technologies. I believe in clean code. I
-am comfortable working in a team. I
-can create SPA (Single Page
-Application) and any complex 
-application rapidly.</p> 
+<p>I'm A noob developer. Enthusiastic about JavaScript-based technologies. I believe in clean and maintainable code. Passionate about learning and exploring new technologies.</p> 
  
 <h2>Technical Skills 🥰</h2>
 
