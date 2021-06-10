@@ -8,6 +8,7 @@
 
 ```sh
     {
+       techStack: "MERN Stack",
        programmingLanguages: ['JavaScript', 'PHP'],
        libraries: ['React', 'MaterialUI', 'jQuery', 'Bootstrap'],
        frameworks: ['ExpressJs', 'Laravel'],
