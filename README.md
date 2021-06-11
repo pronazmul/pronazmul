@@ -13,7 +13,8 @@
        libraries: ['React', 'MaterialUI', 'jQuery', 'Bootstrap'],
        frameworks: ['ExpressJs', 'Laravel'],
        databases: ['MongoDB', 'MySQL'],
-       devtools: ['Git', 'GitHub', 'Firebase', 'Heroku']
+       devtools: ['Git', 'GitHub', 'Firebase', 'Heroku'],
+       markup:['Html', 'CSS', 'SASS']
      }
 ```
 
