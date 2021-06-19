@@ -32,5 +32,5 @@
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
 [twitter-url]: https://twitter.com/pronazmul
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/pronazmul/
+[linkedin-url]: https://www.linkedin.com/in/pronazmul/ 
 
