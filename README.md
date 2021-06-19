@@ -4,7 +4,7 @@
   
 <p>I'm A noob developer. Enthusiastic about JavaScript-based technologies. I believe in clean and maintainable code. Passionate about learning and exploring new technologies.</p>
  
-<h2>Technical Skills 🥰</h2>
+<h2>Technical Skills 🥰</h2> 
 
 ```sh
     {
