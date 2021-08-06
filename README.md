@@ -1,5 +1,5 @@
 <p align="center"> 
- <h1 align="center">Web Application Developer!</h1> 
+ <h1 align="center">Full Stack Developer!</h1> 
 </p> 
   
 <p>I'm A noob developer. Enthusiastic about JavaScript-based technologies. I believe in clean and maintainable code. Passionate about learning and exploring new technologies.</p>
