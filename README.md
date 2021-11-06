@@ -10,8 +10,8 @@
     {
        techStack: "MERN Stack",
        programmingLanguages: ['JavaScript', 'PHP'],
-       libraries: ['React', 'MaterialUI', 'jQuery', 'Bootstrap'],
-       frameworks: ['ExpressJs', 'Laravel'],
+       libraries: ['React', 'TailwindCSS', 'Bootstrap', 'jQuery'],
+       frameworks: ['NextJS', 'ExpressJs', 'Laravel'],
        databases: ['MongoDB', 'MySQL'],
        devtools: ['Git', 'GitHub', 'Firebase', 'Heroku'],
        markup:['Html', 'CSS', 'SASS']
