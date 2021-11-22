@@ -20,7 +20,8 @@
 
 |PROJECTS | DESCRIPTION | TECHNOLOGY |
 | ------ | ------ | ------ |
-| <a href="https://pronazmul.netlify.app/" target="_blank">My Shop</a> | PWA E-Commerce Application | Tailwind, React, Redux, Express, MongoDB |
+| <a href="https://pronazmul.netlify.app/" target="_blank">My Shop</a> | PWA E-Commerce Application | Tailwind, React, Redux, Express, MongoDB, Mongoose ODM, JWT |
+| <a href="http://ecomnazmul.herokuapp.com/" target="_blank">E Shop</a> | E-Commerce Application | React Bootstrap, React, Redux, Express, MongoDB, Mongoose ODM, JWT |
 
 
 ### ☕ Reach Me
