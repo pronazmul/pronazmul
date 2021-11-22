@@ -2,7 +2,7 @@
  <h1 align="center">Full Stack Developer!</h1>
 </p> 
   
-<p>I'm A noob developer. Enthusiastic about JavaScript-based technologies. I believe in clean and maintainable code. Passionate about learning and exploring new technologies.</p>
+<p>I'm Nazmul Huda From Bangladesh. I do web-design and development. I really enjoy learning  and working with JavaScript related techonologies like React, NextJs, NodeJs, ExpressJs. Enthusiastic about database design, data modeling, Rest-API and token based authentication.</p>
  
 <h2>Technical Skills 🥰</h2> 
 
