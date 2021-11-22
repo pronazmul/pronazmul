@@ -5,7 +5,6 @@
 <p>I'm Nazmul Huda From Bangladesh. I do web-design and development. I really enjoy learning  and working with JavaScript related techonologies like React, NextJs, NodeJs, ExpressJs. Enthusiastic about database design, data modeling, Rest-API and token based authentication.</p>
  
 ### Love to Code with 😎
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
 [![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-44bcd8?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=44bcd8)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
@@ -14,8 +13,7 @@
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-e07b39?style=for-the-badge&logo=mysql&logoColor=2192ba)](#) 
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=2192ba)](#)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-F05032?style=for-the-badge&logo=portfolio&logoColor=2192ba)](#)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=web&logoColor=2192ba)](#)
 
 
 ### ☕ Reach Me
