@@ -20,12 +20,7 @@
 
 |PROJECTS | DESCRIPTION | TECHNOLOGY |
 | ------ | ------ | ------ |
-| 200 - OK | Everything worked as expected|
-| 201 - Create | New data created|
-| 400 - Bad Request | The request was unacceptable, often due to missing a required parameter. |
-| 401 - Unauthorized | No valid API key provided. |
-| 404 - Not Found | The requested resource doesn't exist. |
-| 500 - Server Errors | Internal Server Error |
+| <a href="https://pronazmul.netlify.app/" target="_blank">My Shop</a> | PWA E-Commerce Application | Tailwind, React, Redux, Express, MongoDB |
 
 
 ### ☕ Reach Me
