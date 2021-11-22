@@ -15,6 +15,7 @@
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-e07b39?style=for-the-badge&logo=mysql&logoColor=2192ba)](#) 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=2192ba)](#)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-F05032?style=for-the-badge&logo=git&logoColor=2192ba)](#)
 
 
 ### ☕ Reach Me
