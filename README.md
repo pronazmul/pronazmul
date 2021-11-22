@@ -16,6 +16,18 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=2192ba)](#)
 
 
+### My Projects 🚀
+
+|PROJECTS | DESCRIPTION | TECHNOLOGY |
+| ------ | ------ | ------ |
+| 200 - OK | Everything worked as expected|
+| 201 - Create | New data created|
+| 400 - Bad Request | The request was unacceptable, often due to missing a required parameter. |
+| 401 - Unauthorized | No valid API key provided. |
+| 404 - Not Found | The requested resource doesn't exist. |
+| 500 - Server Errors | Internal Server Error |
+
+
 ### ☕ Reach Me
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/devnazmul) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pronazmul/ ) 
