@@ -4,7 +4,7 @@
   
 <p>I'm Nazmul Huda From Bangladesh. I do web-design and development. I really enjoy learning  and working with JavaScript related techonologies like React, NextJs, NodeJs, ExpressJs. Enthusiastic about database design, data modeling, Rest-API and token based authentication.</p>
  
-### `Love to Code with`😎
+### Love to Code with 😎
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
 [![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-44bcd8?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=44bcd8)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
@@ -17,19 +17,10 @@
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=2192ba)](#)
 
 
-[Portfolio Website 😎](http://pronazmul.com/#home)
-
 ### ☕ Reach Me
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/devnazmul) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pronazmul/ ) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pronazmul) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developernazmul@gmail.com)
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Facebook][facebook-shield]][facebook-url]
-[![Twitter][twitter-shield]][twitter-url]
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: https://www.facebook.com/devnazmul
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
-[twitter-url]: https://twitter.com/pronazmul
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/pronazmul/ 
-
+[Portfolio Website 😎](http://pronazmul.com/#home)
