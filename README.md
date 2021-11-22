@@ -22,6 +22,7 @@
 | ------ | ------ | ------ |
 | <a href="https://pronazmul.netlify.app/" target="_blank">My Shop</a> | PWA E-Commerce Application | Tailwind, React, Redux, Express, MongoDB, Mongoose ODM, JWT |
 | <a href="http://ecomnazmul.herokuapp.com/" target="_blank">E Shop</a> | E-Commerce Application | React Bootstrap, React, Redux, Express, MongoDB, Mongoose ODM, JWT |
+| <a href="http://nazmulchat.herokuapp.com/" target="_blank">Chat App</a> | Real Time Chatting App (Inspired from LearnWithSumit) | Express MVC, EJS Template Engine, Express, MongoDB, Mongoose ODM, JWT, Web Socket |
 
 
 ### ☕ Reach Me
