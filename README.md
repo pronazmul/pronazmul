@@ -23,4 +23,3 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developernazmul@gmail.com)
 [![My Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](http://pronazmul.com/)	
 
-[Portfolio Website 😎](http://pronazmul.com/#home)
