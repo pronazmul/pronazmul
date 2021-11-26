@@ -1,7 +1,6 @@
-<p align="center"> 
- <h1 align="center">Welcome to my Profile😀</h1>
-</p> 
-  
+
+## Welcome to my Profile😀
+
 <p>I'm Nazmul Huda From Bangladesh. I do web-design and development. I really enjoy learning  and working with JavaScript related techonologies like React, NextJs, NodeJs, ExpressJs. Enthusiastic about database design, data modeling, Rest-API and token based authentication.</p>
  
 ### Love to Code with 😎
