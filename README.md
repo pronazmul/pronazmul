@@ -17,7 +17,7 @@
 
 ### My Projects 🚀
 
-|PROJECTS | DESCRIPTION | TECHNOLOGY |
+|PROJECTS | DESCRIPTION | TECHNOLOGIES|
 | ------ | ------ | ------ |
 | <a href="https://pronazmul.netlify.app/" target="_blank">My Shop</a> | E-Commerce Application (Prograssive Web App) | Tailwind, React, Redux, Express, MongoDB, Mongoose ODM, JWT |
 | <a href="http://ecomnazmul.herokuapp.com/" target="_blank">E Shop</a> | E-Commerce Application | React Bootstrap, React, Redux, Express, MongoDB, Mongoose ODM, JWT |
