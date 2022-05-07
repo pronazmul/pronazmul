@@ -20,7 +20,7 @@
 |PROJECTS | DESCRIPTION | TECHNOLOGIES|
 | ------ | ------ | ------ |
 | <a href="https://pronazmul.netlify.app/" target="_blank">My Shop</a> | E-Commerce Application (Prograssive Web App) | Tailwind, React, Redux, Express, MongoDB, Mongoose ODM, JWT |
-| <a href="http://ecomnazmul.herokuapp.com/" target="_blank">E Shop</a> | E-Commerce Application | React Bootstrap, React, Redux, Express, MongoDB, Mongoose ODM, JWT |
+| <a href="#">E Shop</a> | E-Commerce Application | React Bootstrap, React, Redux, Express, MongoDB, Mongoose ODM, JWT |
 | <a href="http://nazmulchat.herokuapp.com/" target="_blank">Chat App</a> | Real Time Chatting App (Inspired from LearnWithSumit) | Express MVC, EJS Template Engine, Express, MongoDB, Mongoose ODM, JWT, Web Socket |
 | <a href="https://apartment-hunt-team39.web.app/" target="_blank">Appertment Booking</a> | Practice Appertment Booking App | React, React Bootstrap, Redux, Firebase Auth, Express, MongoDB  |
 | <a href="https://doctors-portal-react.netlify.app" target="_blank">Doctors Portal</a> | Doctors Portal Template Design | React,  React Bootstrap |
