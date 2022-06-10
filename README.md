@@ -1,6 +1,6 @@
 ## Welcome to my Profile😀
 
-<p>I'm Nazmul Huda From Bangladesh. I do web-design and development. I really enjoy learning  and working with JavaScript related techonologies like React, NextJs, NodeJs, ExpressJs. Enthusiastic about block chain techonology, web 3.0</p>
+<p>I'm Nazmul Huda From Bangladesh. JavaScript is my native programming language, I've worked with it for over 2 years. I've used it in the front-end with React, Next and Redux, in the back-end for APIs with Node, Express and for testing automation using Jest.</p>
 
 ### Love to Code with 😎 
 [![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-44bcd8?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=44bcd8)](#)
