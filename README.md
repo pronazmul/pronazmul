@@ -16,7 +16,7 @@
 
 ### My Projects 🚀
 
-|PROJECTS | DESCRIPTION | TECHNOLOGIES|
+|PROJECTS | DESCRIPTION | TECHNOLOGIES| 
 | ------ | ------ | ------ |
 | <a href="https://pronazmul.netlify.app/" target="_blank">My Shop</a> | E-Commerce Application (Prograssive Web App) | Tailwind, React, Redux, Express, MongoDB, Mongoose ODM, JWT |
 | <a href="http://nazmulchat.herokuapp.com/" target="_blank">Chat App</a> | Real Time Chatting App (Inspired from LearnWithSumit) | Express MVC, EJS Template Engine, Express, MongoDB, Mongoose ODM, JWT, Web Socket |
