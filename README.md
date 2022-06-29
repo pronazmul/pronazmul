@@ -1,4 +1,4 @@
-O## Welcome to my Profile😀
+## Welcome to my Profile😀
 
 <p>I'm Nazmul Huda From Bangladesh. JavaScript is my native programming language, I've worked with it for over 2 years. I've used it in the front-end with React, Next and Redux, in the back-end for APIs with Node, Express and for testing automation using Jest.</p>
 
