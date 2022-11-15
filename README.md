@@ -2,7 +2,7 @@
 
 <p>I'm a self-taught passionate Web Application Developer specialized in MERN Stack Web Development. JavaScript is my native programming language. I use HTML, CSS, and Tailwind to design a perfect responsive website template and give them life using React.JS. I can develop scalable REST APIs using Node.JS, Express.JS and MongoDB and connect them with front-end single page applications. Use Redux for State management & RTK Query for Caching and Revalidation.</p>
 
-### Love to Code with 😎 
+### Love to Code with 😎
 [![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-44bcd8?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=44bcd8)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
