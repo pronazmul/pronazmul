@@ -13,7 +13,7 @@
 [![MySQL Badge](https://img.shields.io/badge/MySQL-e07b39?style=for-the-badge&logo=mysql&logoColor=2192ba)](#) 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=2192ba)](#)
 
-### My Projects 🚀
+### My Projects 🚀 
 
 |PROJECTS | DESCRIPTION | TECHNOLOGIES| 
 | ------ | ------ | ------ |
