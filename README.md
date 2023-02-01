@@ -7,13 +7,13 @@
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-44bcd8?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=44bcd8)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) 
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![MySQL Badge](https://img.shields.io/badge/PHP-e07b39?style=for-the-badge&logo=php&logoColor=2192ba)](#) 
-[![MySQL Badge](https://img.shields.io/badge/Laravel-e07b39?style=for-the-badge&logo=Laravel&logoColor=2192ba)](#) 
-[![MySQL Badge](https://img.shields.io/badge/MySQL-e07b39?style=for-the-badge&logo=mysql&logoColor=2192ba)](#) 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=2192ba)](#)
+[![Next.js Badge](https://img.shields.io/badge/next.js-00425A?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=white)](#) 
+[![Express.js Badge](https://img.shields.io/badge/Express.js-DDDDDD?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#)
+[![PHP Badge](https://img.shields.io/badge/PHP-44bcd8?style=for-the-badge&labelColor=black&logo=php&logoColor=2192ba)](#) 
+[![LARAVEL Badge](https://img.shields.io/badge/Laravel-D61355?style=for-the-badge&labelColor=black&logo=Laravel&logoColor=2192ba)](#) 
+[![MySQL Badge](https://img.shields.io/badge/MySQL-F55050?style=for-the-badge&labelColor=black&logo=mysql&logoColor=2192ba)](#) 
+[![Git](https://img.shields.io/badge/Git-674188?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#)
 
 ### My Projects 🚀
 
