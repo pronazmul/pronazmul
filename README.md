@@ -20,13 +20,13 @@
 |PROJECTS | DESCRIPTION | TECHNOLOGIES| 
 | ------ | ------ | ------ |
 | <a href="https://documenter.getpostman.com/view/11483431/2s8Z73xVnP" target="_blank">Youline Social App</a> | API Development | ExpressJs, MongoDB, Mongoose ODM, JWT |
-<!-- | <a href="http://103.107.184.159:3003" target="_blank">E Shop (Dashboard)</a> | Ecommerce Dashboard | Tailwind, React, Redux (RTK_Query), Express, MongoDB, Mongoose ODM, JWT | -->
+<!-- | <a href="http://103.107.184.159:3003" target="_blank">E Shop (Dashboard)</a> | Ecommerce Dashboard | Tailwind, React, Redux (RTK_Query), Express, MongoDB, Mongoose ODM, JWT |
 | <a href="https://pronazmul.github.io/vertexhachery-landing-page/" target="_blank">Fishary Landing Page Tailwind</a> | Vartex Hatchery | Tailwind, JavaScript, Html, CSS |
 | <a href="https://pronazmul.github.io/dashboard-ui-tailwind/" target="_blank">Dashboard UI Tailwind</a> | Personal Dashboard | Tailwind, AlpineJs, JavaScript, Html, CSS, ApexChart |
 | <a href="http://103.107.184.159:3002" target="_blank">Charity Management</a> | Charity Management Dashboard | Tailwind, React, Redux, Express, MongoDB, Mongoose ODM, JWT |
-| <a href="https://twitter-2-0-ts-sanity.vercel.app">Twitter 2.0</a> | Social App | ReactJs, NextJs, TypeScript, TailwindCss, Sanity, GROQ, Next-Auth, Twitter Authentincation |
+| <a href="https://twitter-2-0-ts-sanity.vercel.app">Twitter 2.0</a> | Social App | ReactJs, NextJs, TypeScript, TailwindCss, Sanity, GROQ, Next-Auth, Twitter Authentication |  -->
 
-<!-- | <a href="http://103.107.184.159:3001" target="_blank">My Shop</a> | E-Commerce Application (Prograssive Web App) | Tailwind, React, Redux, Express, MongoDB, Mongoose ODM, JWT | -->
+<!-- | <a href="http://103.107.184.159:3001" target="_blank">My Shop</a> | E-Commerce Application (Progressive Web App) | Tailwind, React, Redux, Express, MongoDB, Mongoose ODM, JWT | -->
 
 
 <!-- | <a href="http://103.107.184.159:3008" target="_blank">Project Manager</a> | Kanban Board (RTK Query) | Tailwind, React, Redux, RTK Query, Redux-Tookit, Express|
