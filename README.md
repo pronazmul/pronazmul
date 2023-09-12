@@ -3,17 +3,17 @@
 <p>I'm a self-taught passionate Web Application Developer specialized in MERN Stack Web Development. JavaScript is my native programming language. I use HTML, CSS, and Tailwind to design a perfect responsive website template and give them life using React.JS. I can develop scalable REST APIs using Node.JS, Express.JS and MongoDB and connect them with front-end single page applications. Use Redux for State management & RTK Query for Caching and Revalidation.</p> 
 
 ### Love to Code with 😎
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-44bcd8?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=44bcd8)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
+[![React.js Badge](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
 [![Next.js Badge](https://img.shields.io/badge/next.js-00425A?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=white)](#) 
 [![Express.js Badge](https://img.shields.io/badge/Express.js-DDDDDD?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#) 
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#)
-[![PHP Badge](https://img.shields.io/badge/PHP-44bcd8?style=for-the-badge&labelColor=black&logo=php&logoColor=2192ba)](#) 
-[![LARAVEL Badge](https://img.shields.io/badge/Laravel-D61355?style=for-the-badge&labelColor=black&logo=Laravel&logoColor=2192ba)](#) 
-[![MySQL Badge](https://img.shields.io/badge/MySQL-F55050?style=for-the-badge&labelColor=black&logo=mysql&logoColor=2192ba)](#) 
-[![Git](https://img.shields.io/badge/Git-674188?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+[![Nginx Badge](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&labelColor=black&logo=nginx&logoColor=009639)](#)
+[![AWS EC2 Badge](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&labelColor=FF9900&logo=amazon-aws&logoColor=white)](#)
+[![AWS S3 Bucket Badge](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&labelColor=232F3E&logo=amazon-s3&logoColor=white)](#)
 
 ### My Projects 🚀
 
