@@ -1,4 +1,4 @@
-## Welcome to my Profile 😀
+## Welcome to my GitHub profile! 🚀
 
 <p>I'm a self-taught Web Application Developer specializing in MERN Stack development. My journey in web development begins with React.js, and I develop static templates to dynamic web applications.</p>
 
