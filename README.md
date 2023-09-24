@@ -1,6 +1,13 @@
 ## Welcome to my Profile 😀
 
-<p>I'm a self-taught passionate Web Application Developer specializing in MERN Stack Web Development. JavaScript is my native programming language. I use HTML, CSS, and Tailwind to design a perfectly responsive website template and give it life using React. JS. I can develop scalable REST APIs using Node.JS, Express.JS, and MongoDB and connect them with front-end single-page applications. Use Redux for State management & RTK Query for Caching and Revalidation.</p> 
+<p>I'm a self-taught Web Application Developer specializing in MERN Stack development. My journey in web development begins with React.js, and I develop static templates to dynamic web applications.</p>
+
+<p>Beyond the front end, I excel in the backend, developing scalable REST APIs using Node.JS, Express.JS, and MongoDB and connecting them with front-end single-page applications. I also have experience with state management using Redux and utilize RTK Query for caching and revalidation.</p>
+
+<p>I've expanded my expertise to include DevOps practices, mastering Docker for containerization, Jenkins for CICD pipelines, and Linux server administration. I'm adept at AWS, managing EC2 instances, and leveraging S3 buckets for scalable storage.</p>
+
+<p>My commitment to delivering top-notch web applications and embracing modern DevOps practices sets me apart as a versatile and skilled developer.</p>
+
 
 ### Love to Code with 😎
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
@@ -13,6 +20,7 @@
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
+[![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939)](#)
 [![Nginx Badge](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&labelColor=black&logo=nginx&logoColor=009639)](#)
 [![AWS EC2 Badge](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&labelColor=FF9900&logo=amazon-aws&logoColor=white)](#)
 [![AWS S3 Bucket Badge](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&labelColor=232F3E&logo=amazon-s3&logoColor=white)](#)
