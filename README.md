@@ -29,7 +29,7 @@
 
 |PROJECTS | DESCRIPTION | TECHNOLOGIES| 
 | ------ | ------ | ------ |
-| <a href="https://documenter.getpostman.com/view/11483431/2s8Z73xVnP" target="_blank">Youline</a> | IOS App (Api Development), Deployed on EC2, S3 Bucket Storage | Node, Express, MongoDB |
+| <a href="https://documenter.getpostman.com/view/11483431/2s8Z73xVnP" target="_blank">Youline Api (Social App) </a> | IOS App (Api Development), Deployed on EC2, S3 Bucket Storage | Node, Express, MongoDB |
 | <a href="https://documenter.getpostman.com/view/11483431/2s9YC32Zpi" target="_blank">Blog Api</a> | Auth, Roles, Followers, Categories, Tags, Blogs, Notifications, Likes, Comments, Analytics | Node, Express, MongoDB |
 | <a href="https://documenter.getpostman.com/view/11483431/2s9YC32Zu5" target="_blank">School Management (SMS)</a> | Auth, Admins, Teachers, Students, Parents, Classes, Subjects, Events, Notifications, Attendance, Exams, Marks | Node, Express, MongoDB |
 
